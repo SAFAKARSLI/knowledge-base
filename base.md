@@ -9,3 +9,10 @@
 - What is a processor register?
 
 - What is HTMX?
+
+
+
+
+## 02/04/2024:
+
+- __name__ and main function in Python. Basically you should have a main function that will be executed when the script file gets executed.

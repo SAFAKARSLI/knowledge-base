@@ -1,0 +1,14 @@
+
+
+deposit ~ $1000
+first rent (if 2bd) ~ $2100
+uHaul ~ $600 + $100
+
+
+
+
+
+1. Apply
+2. Evaluate
+3. Admission (drug test and offer)
+4. Training
