@@ -30,3 +30,8 @@
 
 * "Run early, run often" principle helps you to detect any typo or syntax error early, which makes it easy to fix and move on.
 
+
+# 02/09/2024:
+
+* 
+
