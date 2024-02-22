@@ -91,5 +91,14 @@ https://prnt.sc/hVuGk-2VN2q6
 In TDD, all you have to focus on is little refactoring that makes the code better quality. When adding a new functionality, the same principle applies. 
 
 
+# 02/19/2024:
+
+## Section 4: Getting Started with JUnit 5
+
+[JUnit 5 Modules](https://prnt.sc/kWVvjRYrwd81)
+[JUnit 5 Test Lifecycle](https://prnt.sc/JlsRmDT0KNal)
+[JUnit Dependencies](https://prnt.sc/uhyJC8bYl0FU)
+* Managing the dependency versions through environment variables.
+
 
 
